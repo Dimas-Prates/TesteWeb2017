@@ -1,0 +1,51 @@
+/*--Configurações Gerais*/
+*{
+    font-weight: 300;
+}
+body{
+    padding-top: 51px;
+    background-color: #eee;
+}
+/*//Configurações Gerais*/
+
+/*--MENU DE NAVEGAÇÃO*/
+
+
+/*//MENU DE NAVEGAÇÃO*/
+
+/*--CONTEUDO PRINCIPAL*/
+/*<Mercadoria>*/
+.panel{
+    margin-bottom: 0px;
+}
+.panel-main{
+    margin-top: 1%;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #aaa;
+    box-shadow: 2px 2px 2px #ddd;
+}
+.panel-main-content{
+    padding: 12px;
+}
+.container-fluid{
+    padding-top: 25px;
+}
+/*</MERCADORIA>*/
+/*<Consulta-Pesquisa>*/
+.table-custom{
+    width:100%;
+}
+/*</Consulta-Pesquisa>*/
+/*//CONTEUDO PRINCIPAL*/
+
+/*--RODAPE*/
+footer{
+    margin-top: 10%;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+}
+/*//RODAPE*/
+
